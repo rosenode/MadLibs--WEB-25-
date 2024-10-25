@@ -1,0 +1,76 @@
+.border{
+  background-color: rgb(247, 202, 120);
+  padding-bottom: 20px;
+  text-align: center;
+  border-color:black;
+  border-width: 50px;
+}
+
+body{
+  background-image: url(halloweenwp.png);
+  background-size: cover;
+  height: 100vh;
+}
+
+
+.ghostimg{
+    width: auto;
+    height: 200px;
+}
+
+.pumpkin1{
+  height: 140px;
+}
+
+#ghostimg{
+    animation-name: bounceIn;
+    animation-duration: 1s;
+    animation-delay: 0.5s;}
+    @keyframes bounceIn {
+        0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+        40% {
+        transform: translateY(-30px);
+      }
+        60% {
+        transform: translateY(-15px);
+      }
+    }
+    #ghostimg {
+     position:sticky;
+      bottom: 0;
+      left: 50%;
+      margin-left:-20px;
+      width: 40px;
+      height: 40px;
+       background-size: contain;
+      opacity: 0;
+    }
+    
+    .ghostimg {
+      animation: bounceIn 2s infinite 2s;
+    }
+
+    .bordtext{
+      font-size: 50px;
+      font-family: fantasy;
+      color:white;
+      background-color: black;
+    }
+
+    .textp{
+      background-color: white;
+      text-align: center;
+      padding: 50px;
+      border-radius: 50px;
+      font-style: italic;
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight: bold;
+    }
+
+    .foot{
+      color:white;
+      font-size: 10px;
+    }

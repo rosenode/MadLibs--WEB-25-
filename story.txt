@@ -1,0 +1,7 @@
+One Halloween night, I decided to go trick-or-treating with my ${var1} friends. We dressed up as ${var2} ${var3} and set off into the ${var4} neighborhood.
+
+As we walked, we saw a ${var5} ${var6} lurking in the bushes. It had ${var7} ${var8} for eyes and made a ${var9} noise. We were so ${var10} that we ran away and found ourselves in front of a ${var11} ${var12}.
+
+Suddenly, a ${var13} ${var14} appeared and said, “You must solve my ${var15} if you want to leave!” We knew we had to be ${var16} and think quickly.
+
+Finally, after ${var17} minutes of ${var18}, we solved the ${var19} and escaped! We went home with ${var20} bags of ${var21} and promised to always remember that ${var22} Halloween night.
